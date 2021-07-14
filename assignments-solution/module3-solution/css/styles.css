@@ -10,6 +10,21 @@
   border: 1px solid black;
 }
 
-.height-1000 {
-  height: 1000px;
+.large-height {
+  height: 700px;
+  background-color: ghostwhite;
+}
+.large-height > h3 {
+  padding-top: 10px;
+}
+.large-height > div {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#main-content .row a {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
 }
