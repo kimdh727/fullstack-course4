@@ -1,0 +1,15 @@
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+#nav-list a {
+  background-color:white;
+  border: 1px solid black;
+}
+#nav-list a:hover {
+  background-color: ghostwhite;
+  border: 1px solid black;
+}
+
+.height-1000 {
+  height: 1000px;
+}
