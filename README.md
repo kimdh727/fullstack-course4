@@ -20,3 +20,4 @@ As part of this course we developed a *real* website for a *real* client. Below 
 * [Module 2](https://kimdh727.github.io/fullstack-course4/assignments-solution/module2-solution/index.html)
 * [Module 3](https://kimdh727.github.io/fullstack-course4/assignments-solution/module3-solution/index.html)
 * [Module 4](https://kimdh727.github.io/fullstack-course4/assignments-solution/module4-solution/index.html)
+* [Module 5](https://kimdh727.github.io/fullstack-course4/assignments-solution/module5-solution/index.html)
